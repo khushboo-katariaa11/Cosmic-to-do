@@ -70,7 +70,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots 📸
 
-![Cosmic To-Do List Screenshot](https://via.placeholder.com/600x400.png?text=Cosmic+To-Do+List+Screenshot)
+<img src="" alt="ss">
 
 ---
 
