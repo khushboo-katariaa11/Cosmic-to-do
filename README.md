@@ -70,7 +70,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots 📸
 
-<img src="" alt="ss">
+<img src="to-do.png" alt="ss">
 
 ---
 
